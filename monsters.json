@@ -16,9 +16,7 @@
     "use" : "The weird seeds sprout and begin to grow pretty red flowers, with thick leaves that almost seem to be forming barbs on the tips", 
     "loot" : "The valuables of past victims are found near jasmeris flower beds, including equipment, shins, and sometimes a few cyphers",
     "image" : "https://cdnb.artstation.com/p/assets/images/images/010/527/473/large/eric-quigley-nu-nwb2-31-jasmeris-character-ericquigley-2-10-17.jpg?1524885579"
-    
   },
-  
   {
     "name" : "Seskii",
     "description" : "Resemnling large dogs in stature and movement, these four-footed creatures are covered in hard, overlapping scales",
@@ -36,7 +34,5 @@
     "use" : "Intelligent and loyal companions, seskii can be trained in various methods of hunting, stealth, and attack by those who have skills with animals. Many humans outfit their seskii with special types of weapons and armor, spiked collars are a favorite", 
     "loot" : "",
     "image" : "https://i.pinimg.com/originals/9e/73/8a/9e738a298e7c04c402e2014a9c8d71c8.jpg"
-    
   }
-  
 ]
