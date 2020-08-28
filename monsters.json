@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "Jasmeris",
+    "description" : "Wide faced flowerlike plants",
+    "level" : 5,
+    "motive" : "Hungers for flesh",
+    "encounterType" : "FOREST",
+    "environment" : "Anywhere plants can grow",
+    "health" : 20,
+    "damages" : 5,
+    "armor" : 0,
+    "movementType" : "SHORT",
+    "modifications" : {},
+    "combat" : "A jasmeris attacks targets with its barbed leaves, though its perfume is its most lethal quality",
+    "interaction" : "Jasmerises aren't intelligent, but they are as smart as an animal predator",
+    "use" : "The weird seeds sprout and begin to grow pretty red flowers, with thick leaves that almost seem to be forming barbs on the tips", 
+    "loot" : "The valuables of past victims are found near jasmeris flower beds, including equipment, shins, and sometimes a few cyphers",
+    "image" : "https://cdnb.artstation.com/p/assets/images/images/010/527/473/large/eric-quigley-nu-nwb2-31-jasmeris-character-ericquigley-2-10-17.jpg?1524885579"
+    
+  },
+  
+  {
+    "name" : "Seskii",
+    "description" : "Resemnling large dogs in stature and movement, these four-footed creatures are covered in hard, overlapping scales",
+    "level" : 2,
+    "motive" : "Hunger or loyalty",
+    "encounterType" : "PET",
+    "environment" : "Anywhere, even urban areas",
+    "health" : 6,
+    "damages" : 2,
+    "armor" : 2,
+    "movementType" : "LONG",
+    "modifications" : "Attack as level 3 if wearing any type of manufactured armor, including a spiked collar, daggered tail cover, or synthclaws. Defends against piercing weapons as level 3",
+    "combat" : "Seskii typically attack with their teeth and the sharp tips of their scales provide them with additional protection against piercing weapons",
+    "interaction" : "Seskii engage in combat for one of two reasons : hunger or loyalty. When hungry, they often attack anything that seems edible, including other seskii. When they attack humans, it is typically to snatch any food being carried and race off with it, rather than to eat human flesh. In terms of loyalty, seskii may become particularly devoted to anything and anyone, including other seskii, humans, statues that seem like creatures , and places thay call home.They will fight to the death to defend a place or person they deem as their own",
+    "use" : "Intelligent and loyal companions, seskii can be trained in various methods of hunting, stealth, and attack by those who have skills with animals. Many humans outfit their seskii with special types of weapons and armor, spiked collars are a favorite", 
+    "loot" : {},
+    "image" : "https://i.pinimg.com/originals/9e/73/8a/9e738a298e7c04c402e2014a9c8d71c8.jpg"
+    
+  }
+  
+]
