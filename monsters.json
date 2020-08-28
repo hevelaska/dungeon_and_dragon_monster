@@ -10,7 +10,7 @@
     "damages" : 5,
     "armor" : 0,
     "movementType" : "SHORT",
-    "modifications" : {},
+    "modifications" : "",
     "combat" : "A jasmeris attacks targets with its barbed leaves, though its perfume is its most lethal quality",
     "interaction" : "Jasmerises aren't intelligent, but they are as smart as an animal predator",
     "use" : "The weird seeds sprout and begin to grow pretty red flowers, with thick leaves that almost seem to be forming barbs on the tips", 
